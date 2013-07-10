@@ -1,4 +1,4 @@
-CodeEval challenges Solutions
+CodeEval Challenges Solutions
 -----------------------------
 
 Solutions to the [CodeEval challenges](https://www.codeeval.com/open_challenges/).
